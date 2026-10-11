@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Licznik kliknięć</string>
+    <string name="counter_start">0</string>
+    <string name="plus_one">+1</string>
+    <string name="minus_one">-1</string>
+    <string name="reset">Reset</string>
+    <string name="error_negative">Licznik nie może być ujemny</string>
+    <string name="reset_message">Licznik wyzerowany</string>
+</resources>
